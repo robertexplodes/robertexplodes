@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Flo</h1>
-<h3 align="left">I am 18 years old and love programming💻 and music🎵.</h3>
+<h3 align="left">I am 19 years old and love programming💻 and music🎵.</h3>
 
 - 🌱 I’m currently learning **Vue**
 
